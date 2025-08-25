@@ -2,11 +2,11 @@
 
  ### I am currently studying for a Bachelors of Science degree in Computer Science at Wright State University.
  ----
- GUI Game Progect
+ GUI Game Project
  : creating a video game. My video game is modeled after Flappy Bird where the player has to fly the bird through the course making sure to avoid obstacles. 
 
- PassWord Craker Progect
- : dsgd
+ PassWord Cracker Project
+ : takes a password from a zip file and uses brute force to try every possible password by knowing the password length using multithreading 
 
 <!--
 **MaxGWarner/MaxGWarner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
