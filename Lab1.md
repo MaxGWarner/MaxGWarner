@@ -12,14 +12,14 @@
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
 | help    | man         |       |
-| Get-Location | pwd    |        |
-| Get-ChildItem | ls    |        |
-| mkdir   | mkdir       |        |
-| Set-Location | cd     |        |
-| New-Item | touch      |        |
-| Move-Item | mv        |        |
-| Copy-Item | cp        |        |
-| Remove-Item | rm      |        |
+| Get-Location | pwd    |    Returns the currrent working directory   |
+| Get-ChildItem | ls    |      Returns all the contents of a directory  |
+| mkdir   | mkdir       |     Creates a new folder   |
+| Set-Location | cd     |     change directories    |
+| New-Item | touch      |     create an empty    |
+| Move-Item | mv        |     to move or rename files   |
+| Copy-Item | cp        |    copies directories     |
+| Remove-Item | rm      |    deletes directories    |
 | notepad.exe | vim     |        |
 
 ## Part 3 - Command Line Navigation
