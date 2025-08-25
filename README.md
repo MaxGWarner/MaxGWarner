@@ -2,6 +2,9 @@
 
  I am currently studing fora bachelors of Commputer Science degree. At Wright State 
 
+
+ ----
+
 <!--
 **MaxGWarner/MaxGWarner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
