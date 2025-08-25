@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi My name is Max
 
  I am currently studing fora bachelors of Commputer Science degree. At Wright State 
 
