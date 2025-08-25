@@ -1,6 +1,6 @@
 ## Hi my name is Max
 
- I am currently studying for a Bachelors of Science degree in Computer Science at Wright State University.
+ ###I am currently studying for a Bachelors of Science degree in Computer Science at Wright State University.
  ----
  One project I am working on is creating a video game. 
 
