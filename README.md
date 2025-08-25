@@ -1,7 +1,7 @@
 ## Hi my name is Max
----
+
  I am currently studying for a Bachelors of Science degree in Computer Science at Wright State University.
- ---
+ 
  GUI Game Project
  : creating a video game. My video game is modeled after Flappy Bird where the player has to fly the bird through the course making sure to avoid obstacles. 
 
