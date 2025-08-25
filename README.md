@@ -2,7 +2,8 @@
 
  ### I am currently studying for a Bachelors of Science degree in Computer Science at Wright State University.
  ----
- One project I am working on is creating a video game. 
+ GUI Game Progect 
+ : creating a video game. My video game is modeled after Flappy Bird where the player has to fly the bird through the course making sure to avoid obstacles. 
 
 <!--
 **MaxGWarner/MaxGWarner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
