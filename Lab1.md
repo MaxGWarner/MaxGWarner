@@ -1,11 +1,11 @@
 ## Lab 01
 
-- Name:
-- Email:
+- Name: Max Warner 
+- Email: Warner.167@Wright.edu
 
 ## Part 1 - GitHub Profile
 
-1. [your_github_username_here's GitHub Profile](FIXTHISURL-https://github.com/your_username)
+1. https://github.com/MaxGWarner
 
 ## Part 2 - Research
 
