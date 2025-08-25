@@ -11,7 +11,7 @@
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |        |
+| help    | man         |     wwqqwqweqweqweqweqew   |
 | Get-Location | pwd    |        |
 | Get-ChildItem | ls    |        |
 | mkdir   | mkdir       |        |
