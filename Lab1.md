@@ -52,4 +52,4 @@ Put your words here
 
 ## Citations
 
-To add citations, provide the site and a summary of what it assisted you with.  If generative AI was used, include which generative AI system was used and what prompt(s) you fed it.
+Part 2 - i used Google Gemini and my promt was "mac terminal commands"
