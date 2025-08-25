@@ -25,11 +25,11 @@
 ## Part 3 - Command Line Navigation
 
 My OS is:
-- [x] Windows
+- [] Windows
 - [] Linux
-- [] Mac
+- [X] Mac
 
-My Command Line Shell is: 
+My Command Line Shell is: Terminal
 
 ### Navigating My OS on the Command Line
 
