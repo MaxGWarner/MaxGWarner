@@ -11,16 +11,16 @@
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |       |
+| help    | man         |    provides Doccmetaion for other commands   |
 | Get-Location | pwd    |    Returns the currrent working directory   |
 | Get-ChildItem | ls    |      Returns all the contents of a directory  |
 | mkdir   | mkdir       |     Creates a new folder   |
 | Set-Location | cd     |     change directories    |
 | New-Item | touch      |  creates an empty file   |
 | Move-Item | mv        |     to move or rename files   |
-| Copy-Item | cp        |    copies directories     |
-| Remove-Item | rm      | tries remove the non-directory type files |
-| notepad.exe | vim     |      |
+| Copy-Item | cp        |    copies files     |
+| Remove-Item | rm      | tries remove the non-directory type files |s
+| notepad.exe | vim     |  a text editor    |
 
 ## Part 3 - Command Line Navigation
 
