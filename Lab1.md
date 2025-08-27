@@ -19,7 +19,7 @@
 | New-Item | touch      |  creates an empty file   |
 | Move-Item | mv        |     to move or rename files   |
 | Copy-Item | cp        |    copies files     |
-| Remove-Item | rm      | tries remove the non-directory type files |s
+| Remove-Item | rm      | tries remove the non-directory type files |
 | notepad.exe | vim     |  a text editor    |
 
 ## Part 3 - Command Line Navigation
@@ -43,12 +43,12 @@ My Command Line Shell is: zshell
 8. Move the file named `test.txt` into `DirA`: mv test.txt DirA 
 9. Contents of `test.txt`:
 ```
-Put your words here
+context
 ```
-10. Make a copy of `test.txt` named `copy.txt` in `DirA`:
+10. Make a copy of `test.txt` named `copy.txt` in `DirA`: cp test.txt copy.txt
 11. View the contents of `DirA`: ls
-12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`:
-13. Delete / remove both `fodder.txt` AND `Dir B`:
+12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`:  cp DirA/test.txt DirB/fodder.txt
+13. Delete / remove both `fodder.txt` AND `Dir B`: rm -r DirB
 
 ## Citations
 
